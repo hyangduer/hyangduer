@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @hyangduer
+- 🌱 I’m currently learning python.
